@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimpleInterfaz</string>
+    <string name="TextView">Notas</string>
+    <string name="Boton1">Add</string>
+    <string name="tw1">Titulo</string>
+    <string name="tw2">Texto</string>
+    <string name="boton2">Guardar</string>
+    <string name="TextInput">Escriba Aqui</string>
+    <string name="CheckBox">Favoritos</string>
+</resources>

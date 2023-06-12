@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/home"
+            android:icon="@drawable/baseline_home_24"
+            android:title="@string/home"
+            />
+        <item android:id="@+id/account"
+            android:icon="@drawable/baseline_account_circle_24"
+            android:title="@string/account"
+            />
+        <item android:id="@+id/exit"
+            android:icon="@drawable/baseline_exit_to_app_24"
+            android:title="@string/exit"
+            />
+    </group>
+    <item android:title="@string/change_avatar">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:id="@+id/avatar1"
+                    android:icon="@drawable/avatar1"
+                    android:title="@string/avatar_x"
+                    />
+                <item android:id="@+id/avatar2"
+                    android:icon="@drawable/avatar2"
+                    android:title="@string/avatar_y"
+                    />
+                <item android:id="@+id/avatar3"
+                    android:icon="@drawable/avatar3"
+                    android:title="@string/avatar_z"
+                    />
+            </group>
+        </menu>
+    </item>
+</menu>

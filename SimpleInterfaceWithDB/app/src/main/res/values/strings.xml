@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Lenflis</string>
+    <string name="selectProfile">Choose Profile</string>
+    <string name="lenflis">Lenflis</string>
+    <string name="logo">Logo</string>
+    <string name="options">more options</string>
+    <string name="plusmenu">addSomething</string>
+    <string name="item1">Add new Serie/Movie</string>
+    <string name="item2">Delete Serie/Movie</string>
+    <string name="home">Home</string>
+    <string name="account">account</string>
+    <string name="exit">exit</string>
+    <string name="changeAvatar">Change Profile</string>
+    <string name="avatar_z">Avatar Z</string>
+    <string name="avatar_y">Avatar Y</string>
+    <string name="avatar_x">Avatar X</string>
+    <string name="change_avatar">Change Avatar</string>
+    <string name="user_name">User Name</string>
+    <string name="open">Open Navigation Drawer</string>
+    <string name="close">Close Navigation Drawer</string>
+    <string name="drawer">drawerlayout</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="status">Status</string>
+    <string name="type">Type</string>
+    <string name="title">Title</string>
+    <string name="add">Add</string>
+    <string name="select_type">Select type</string>
+    <string name="delete">DELETE</string>
+
+</resources>
